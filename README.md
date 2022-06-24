@@ -1,5 +1,5 @@
 # JavaScript-name-project
-# https://github.com/Ngozi-opara
+# https://JAVASCRIPT-PROJECT.ngozi-opara.repl.co
 # Using alert() print name, age, height and country.
 
 
